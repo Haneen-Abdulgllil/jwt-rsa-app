@@ -228,7 +228,7 @@ return Application::configure(basePath: dirname(__DIR__))
     ->create();
 ```
 
- ### 4. Testing the API:
+ ### 5. Testing the API:
  1. Register: POST /api/register:
   ```shell
 {
